@@ -1,4 +1,4 @@
-#General Project Summary
+#Project Summary
 
 Chaser, an app to help you find rare/limited release beers.  Users can search Brewery DB in order to find beers from breweries in their area.
 
